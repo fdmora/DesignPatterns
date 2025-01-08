@@ -1,2 +1,25 @@
-# diveintodesignPatterns
-dive into design Patterns
+# Design Patterns
+<ul>
+<li>AbstractFactory</li>
+<li>Adapter</li>
+<li>Bridge</li>
+<li>Builder</li>
+<li>ChainOfResponsibility</li>
+<li>Command</li>
+<li>Composite</li>
+<li>Decorator</li>
+<li>Facade</li>
+<li>FactoryMethod</li>
+<li>Flyweight</li>
+<li>Iterator</li>
+<li>Mediator</li>
+<li>Memento</li>
+<li>Observer</li>
+<li>Prototype</li>
+<li>Proxy</li>
+<li>Singleton</li>
+<li>State</li>
+<li>Strategy</li>
+<li>TemplateMethod</li>
+<li>Visitor</li>
+</ul>
